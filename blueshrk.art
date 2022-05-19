@@ -1,0 +1,12 @@
+// Backdrop for Blue Shark
+// with Lr-Mame2003 Plus.
+//
+// Original logos, artwork and trademarks are property of their respective owners.
+// 
+// Nov, 2020 - mahoneyt944
+backdrop:
+    file =blueshrk_bd.png
+    layer = backdrop
+    Priority = -2
+    Visible = 1
+    position = -0.16482,0,1.16482,1

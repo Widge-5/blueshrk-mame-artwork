@@ -33,7 +33,7 @@
 			<bounds x="0" y="0" width="1800" height="1350" />
 			<color alpha="0.6" />
 		</element>
-		<screen index="0">
+		<screen index="0" blend="add">
 			<bounds x="0" y="0" width="1800" height="1350" />
 		</screen>
 	</view>
@@ -43,7 +43,7 @@
 			<bounds x="-300" y="0" width="2400" height="1350" />
 			<color alpha="0.6" />
 		</element>
-		<screen index="0">
+		<screen index="0" blend="add">
 			<bounds x="0" y="0" width="1800" height="1350" />
 		</screen>
 	</view>
